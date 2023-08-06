@@ -7,14 +7,14 @@ objective of fitting in a QrCode.
 
 ## Details
 
+[noodle_hop.webm](https://github.com/JoaoCostaIFG/NoodleHop/assets/39132384/85dd4be4-af25-4af5-be73-f9aee53c8dc1)
+
 The game is single HTML file with a javascript block. The final size is 545
 bytes, but it can be brought down to 479 if you remove the mobile device support
 parts.
 
 It relies on the browser to fix many "mistakes" on the file (specially on the
-HTML part), but nothing major
-
-![Gameplay video](./noodle_hop.mkv)
+HTML part), but nothing major.
 
 ## Why
 
