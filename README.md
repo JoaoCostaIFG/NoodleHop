@@ -7,7 +7,11 @@ objective of fitting in a QrCode.
 
 ## Details
 
-![Gameplay gif](./noodle_hop.gif)
+
+
+https://github.com/JoaoCostaIFG/NoodleHop/assets/39132384/c107fc30-1478-43a6-92a4-90f7c158c74d
+
+
 
 The game is single HTML file with a javascript block. The final size is 545
 bytes, but it can be brought down to 479 if you remove the mobile device support
